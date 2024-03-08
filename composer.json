@@ -12,7 +12,7 @@
         "dasundev/filament-access-secret": "^3.0",
         "filament/filament": "^3.2",
         "guzzlehttp/guzzle": "^7.8",
-        "laravel/framework": "^10.46",
+        "laravel/framework": "^10.47",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.9"
     },
